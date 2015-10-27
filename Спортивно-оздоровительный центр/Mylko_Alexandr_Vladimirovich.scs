@@ -1,0 +1,30 @@
+sc_not_relation->Mylko_Alexandr_Vladimirovich;;
+Mylko_Alexandr_Vladimirovich=>nrel_main_idtf:
+[Милько Александр Владимирович](*<-lang_ru;;*);
+[Mylko Alexandr Vladimirovich](*<-land_en;;*);;
+
+Mylko_Alexandr_Vladimirovich -> rrel_work_phone:
+ ...(* <= nrel_sc_text_translation: 
+ ...(* -> rrel_key_sc_element:
+ [+375 17 293-86-27];;*)
+   ;;*)
+   ;; 
+
+Mylko_Alexandr_Vladimirovich -> rrel_work_place:
+ ...(* <= nrel_sc_text_translation: 
+ ...(* -> rrel_key_sc_element:
+ [01-6];;*)
+   ;;*)
+   ;; 
+
+Mylko_Alexandr_Vladimirovich <- rrel_key_sc_element:
+        ...
+        (*
+        <-sc_illustration;;
+        <= nrel_sc_text_translation:
+               ...
+               (*
+               -> rrel_example: 
+                       "file://Mylko.jpg";;
+               *);;
+        *);;

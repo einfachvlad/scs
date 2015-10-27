@@ -1,0 +1,39 @@
+sc_not_relation->Frolova_Darya_Alexandrovna;;
+Frolova_Darya_Alexandrovna=>nrel_main_idtf:
+[Фролова Дарья Александровка](*<-lang_ru;;*);
+[Frolova Darya Alexandrovna](*<-land_en;;*);;
+
+Frolova_Darya_Alexandrovna -> rrel_email:
+ ...(* <= nrel_sc_text_translation: 
+ ...(* -> rrel_key_sc_element:
+ [profstud@bsuir.by](*<-lang_en;;*)
+   ;;*)
+   ;;*)
+   ;; 
+
+Frolova_Darya_Alexandrovna -> rrel_work_phone:
+ ...(* <= nrel_sc_text_translation: 
+ ...(* -> rrel_key_sc_element:
+ [+375 17 292-71-13];
+ [+375 17 293-23-59 ];;*)
+   ;;*)
+   ;; 
+
+Frolova_Darya_Alexandrovna -> rrel_work_place:
+ ...(* <= nrel_sc_text_translation: 
+ ...(* -> rrel_key_sc_element:
+ [312-2];;*)
+   ;;*)
+   ;; 
+
+Frolova_Darya_Alexandrovna <- rrel_key_sc_element:
+        ...
+        (*
+        <-sc_illustration;;
+        <= nrel_sc_text_translation:
+               ...
+               (*
+               -> rrel_example: 
+                       "file://frolova.jpg";;
+               *);;
+        *);;
