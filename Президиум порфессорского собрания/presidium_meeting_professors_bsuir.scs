@@ -1,0 +1,4 @@
+sc_node_not_relation -> presidium_meeting_professors_bsuir;;
+presidium_meeting_professors_bsuir=> nrel_main_idtf:[президиум профессорского собрания БГУИРа] (* <-lang_ru;; *);;
+presidium_meeting_professors_bsuir=> nrel_main_idtf:[presidium meeting professors bsuir] (* <-lang_en;; *);;
+presidium_meeting_professors_bsuir->rrel_chairman:Cherdyntsev_Valery_Abramovich;;
