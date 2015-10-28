@@ -1,7 +1,7 @@
-sc_not_relation->Mayorova_Galina_Victorovna;;
+sc_node_not_relation->Mayorova_Galina_Victorovna;;
 Mayorova_Galina_Victorovna=>nrel_main_idtf:
 [Майорова Галина Викторовна](*<-lang_ru;;*);
-[Mayorova Galina Victorovna](*<-land_en;;*);;
+[Mayorova Galina Victorovna](*<-lang_en;;*);;
 
 Mayorova_Galina_Victorovna -> rrel_work_phone:
  ...(* <= nrel_sc_text_translation: 

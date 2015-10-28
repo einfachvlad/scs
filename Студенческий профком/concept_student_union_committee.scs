@@ -1,7 +1,8 @@
-sc_not_relation -> concept_student_union_committee;;
+sc_node_not_relation -> concept_student_union_committee;;
 concept_student_union_committee=> nrel_main_idtf:[студенческий профсоюзный коммитет] (* <-lang_ru;; *);;
 concept_student_union_committee=> nrel_main_idtf:[student union committee] (* <-lang_en;; *);;
 concept_student_union_committee=> nrel_idtf:[студенческий профком	] (* <-lang_ru;; *);;
+concept_student_union_committee->student_union_committee_bsuir;;
 concept_student_union_committee<- rrel_key_sc_element:
 	... 
 	(*<-sc_definition;;

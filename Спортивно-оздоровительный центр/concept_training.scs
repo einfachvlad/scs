@@ -1,4 +1,4 @@
-sc_not_relation->concept_training;;
+sc_node_not_relation->concept_training;;
 concept_training=>nrel_main_idtf:
 [тренировка](*<-lang_ru;;*);
 [training](*<-land_en;;*);;

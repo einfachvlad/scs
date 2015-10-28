@@ -1,7 +1,7 @@
-sc_not_relation->Krakasevich_Sergey_Victorovich;;
+sc_node_not_relation->Krakasevich_Sergey_Victorovich;;
 Krakasevich_Sergey_Victorovich=>nrel_main_idtf:
 [Кракасевич Сергей Викторович](*<-lang_ru;;*);
-[Krakasevich Sergey Victorovich](*<-land_en;;*);;
+[Krakasevich Sergey Victorovich](*<-lang_en;;*);;
 
 Krakasevich_Sergey_Victorovich -> rrel_work_phone:
  ...(* <= nrel_sc_text_translation: 

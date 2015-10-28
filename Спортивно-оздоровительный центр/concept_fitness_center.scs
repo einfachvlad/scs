@@ -1,6 +1,7 @@
-sc_not_relation -> concept_fitness_center;;
+sc_node_not_relation -> concept_fitness_center;;
 concept_fitness_center=> nrel_main_idtf:[спортивно-оздоровительный центр] (* <-lang_ru;; *);;
 concept_fitness_center=> nrel_main_idtf:[fitness center] (* <-lang_en;; *);;
+concept_fitness_center->fitness_center_bsuir;;
 concept_fitness_center<- rrel_key_sc_element:
 	... 
 	(*<-sc_definition;;

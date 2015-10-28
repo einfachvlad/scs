@@ -1,4 +1,4 @@
-sc_type_role_relation ->rrel_director;; 
+sc_node_role_relation ->rrel_director;; 
 rrel_director=> nrel_main_idtf:[директор'] (* <-lang_ru;; *);;
 rrel_director=> nrel_main_idtf:[director'] (* <-lang_en;; *);;
 rrel_director=>nrel_first_domain:concept_organization;;

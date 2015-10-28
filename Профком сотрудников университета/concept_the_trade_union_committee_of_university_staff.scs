@@ -1,4 +1,5 @@
-sc_not_relation -> concept_the_trade_union_committee_of_university_staff;;
+sc_node_not_relation -> concept_the_trade_union_committee_of_university_staff;;
+concept_the_trade_union_committee_of_university_staff->the_trade_union_committee_of_bsuir_staff;;
 concept_the_trade_union_committee_of_university_staff=> nrel_main_idtf:[профсоюзный комитет сотрудников университета] (* <-lang_ru;; *);;
 concept_the_trade_union_committee_of_university_staff=> nrel_main_idtf:[the trade union committee of university staff] (* <-lang_en;; *);;
 concept_the_trade_union_committee_of_university_staff=> nrel_idtf:[профком сотрудников университета] (* <-lang_ru;; *);;

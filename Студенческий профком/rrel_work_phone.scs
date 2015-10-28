@@ -1,4 +1,4 @@
-sc_type_role_relation -> rrel_work_phone;; 
+sc_node_role_relation -> rrel_work_phone;; 
 rrel_work_phone => nrel_main_idtf:[рабочий телефон'] (* <-lang_ru;; *);;
 rrel_work_phone => nrel_main_idtf:[work phone'] (* <-lang_en;; *);;
 rrel_work_phone=>nrel_first_domain:worker;;

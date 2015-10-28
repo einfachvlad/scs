@@ -1,4 +1,4 @@
-sc_type_role_relation ->rrel_vice_chairman;; 
+sc_node_role_relation ->rrel_vice_chairman;; 
 rrel_vice_chairman=> nrel_main_idtf:[заместитель председателя'] (* <-lang_ru;; *);;
 rrel_vice_chairman=> nrel_main_idtf:[chairman'] (* <-lang_en;; *);;
 rrel_vice_chairman=>nrel_first_domain:concept_organization;;
